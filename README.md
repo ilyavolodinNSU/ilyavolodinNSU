@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/7ef45436-a42e-4757-a419-f758284aab95" width="100%" />
 </p>
 
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br />
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
