@@ -4,13 +4,18 @@
 
 <br />
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&hide_border=true&title_color=f0f6fc&text_color=c9d1d9"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent&hide_border=true&title_color=f0f6fc&text_color=c9d1d9&icon_color=f0f6fc"
-    height="165"
-  />
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <img
+        src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=c9d1d9&authorColor=8b949e&backgroundColor=0d1117&symbolColor=8b949e"
+      />
+    </td>
+    <td valign="top">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent&hide_border=true&title_color=f0f6fc&text_color=c9d1d9&icon_color=f0f6fc"
+      />
+    </td>
+  </tr>
+</table>
+
