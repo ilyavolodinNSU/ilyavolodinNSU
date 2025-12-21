@@ -6,15 +6,15 @@
 <!-- Сильный отрыв -->
 <br /><br /><br /><br />
 
-<!-- Readme Quotes с кастомной цитатой и без рамки -->
+<!-- Readme Quotes с отдельным автором -->
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?quote=%E2%80%9CRemembering%20that%20you%20are%20going%20to%20die%20is%20the%20best%20way%20I%20know%20to%20avoid%20the%20trap%20of%20thinking%20you%20have%20something%20to%20lose.%20You%20are%20already%20naked.%20There%20is%20no%20reason%20not%20to%20follow%20your%20heart.%E2%80%9D%0A%E2%80%95%20Steve%20Jobs%0A&type=horizontal&quoteColor=f0f6fc&authorColor=c9d1d9&backgroundColor=0d1117&symbolColor=f0f6fc&border=false" 
+    <img src="https://quotes-github-readme.vercel.app/api?quote=%E2%80%9CRemembering%20that%20you%20are%20going%20to%20die%20is%20the%20best%20way%20I%20know%20to%20avoid%20the%20trap%20of%20thinking%20you%20have%20something%20to%20lose.%20You%20are%20already%20naked.%20There%20is%20no%20reason%20not%20to%20follow%20your%20heart.%E2%80%9D&author=Steve%20Jobs&type=horizontal&quoteColor=f0f6fc&authorColor=c9d1d9&backgroundColor=0d1117&symbolColor=f0f6fc&border=false" 
          style="background-color:#0d1117; border:none;" />
   </a>
 </p>
 
-<!-- Ещё сильный отрыв перед GitHub Stats -->
+<!-- Сильный отрыв перед GitHub Stats -->
 <br /><br /><br /><br />
 
 <!-- GitHub Stats -->
